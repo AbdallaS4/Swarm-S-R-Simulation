@@ -155,7 +155,7 @@ The simulation represents a disaster environment where:
 ## Author
 
 **Abdalla Saleh**
-BSc (Hons) Software Engineering
+BEng (Hons) Software Engineering
 University of Greenwich
 
 ---
